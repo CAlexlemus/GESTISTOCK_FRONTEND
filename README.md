@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GESTISTOCK
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# GESTISTOCK_FRONTEND
+>>>>>>> a4875e9ae1a2a4c01b488fe847cea8de79a023b3
